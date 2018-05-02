@@ -1,3 +1,8 @@
 {
-  "enabledManagers": ["npm"]
+  "packageRules": [
+    {
+      "packageNames": ["ava"],
+      "enabled": false
+    }
+  ]
 }
