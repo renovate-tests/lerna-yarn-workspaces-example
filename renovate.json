@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "packageNames": ["ava"],
+      "packageNames": ["node"],
       "enabled": false
     }
   ]
