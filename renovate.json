@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "packageNames": ["node"],
+      "packagePatterns": ["node"],
       "enabled": false
     }
   ]
