@@ -1,5 +1,8 @@
 {
   "docker": {
     "enabled": false
+  },
+  "npm": {
+    "enabled": false
   }
 }
