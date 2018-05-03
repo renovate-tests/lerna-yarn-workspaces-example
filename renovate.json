@@ -1,1 +1,4 @@
-{}
+{
+  "recreateClosed": true.
+  "renovateFork": true
+}
