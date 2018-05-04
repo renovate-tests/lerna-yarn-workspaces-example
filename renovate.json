@@ -1,4 +1,8 @@
 {
   "recreateClosed": true,
-  "renovateFork": true
+  "renovateFork": true,
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": null
+  }
 }
