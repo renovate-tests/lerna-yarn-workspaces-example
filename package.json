@@ -7,8 +7,8 @@
     "clean": "rimraf packages/**/lib"
   },
   "devDependencies": {
-    "@types/node": "^8.0.28",
-    "ava": "^0.22.0",
+    "@types/node": "^10.0.0",
+    "ava": "^0.25.0",
     "lerna": "^2.9.0",
     "rimraf": "^2.6.2",
     "typescript": "^2.8.1"
