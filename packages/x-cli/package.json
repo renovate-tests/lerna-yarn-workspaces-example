@@ -16,7 +16,7 @@
     "minimist": "^1.2.0"
   },
   "devDependencies": {
-    "ava": "^0.22.0",
+    "ava": "^1.0.0",
     "typescript": "^2.5.2"
   },
   "ava": {
