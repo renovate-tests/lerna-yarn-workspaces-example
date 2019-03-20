@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: node:8@sha256:b802a02ee6496c34e2dc0eb0379eb1c738331414956d650c0dffdfa0866acb2f
+      - image: node:8@sha256:c151597d05a3c8c4e7b2e988f71c8cd645235d96f39a47b16b1930ef9e7a5aab
     working_directory: ~/repo
 
     steps:
